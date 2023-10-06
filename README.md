@@ -1,2 +1,2 @@
 # AI-PTH
-AI Programming
+AI Programming in Python
